@@ -1,0 +1,70 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+      background: url(Western_Sushi.jpg);
+      background-size: 1500px 1500px,auto;
+    }
+      body {
+       height: 100%;
+    }
+
+    header {
+        background: linear-gradient(orange, black, transparent);
+        color: #ABF7FF;
+        padding:16px;
+        margin: 10px;
+        border: 5px solid #000000;
+        text-align: center;
+        font-size: 32px;
+        text-shadow: 1px 1px 1px #000;
+        display: block;
+        width: 860px;
+    }
+    nav {
+        line-height: 70px;
+        background-color:;
+        width:300px;
+        display: inline-block;
+        vertical-align: top;
+        font-size: 30px;
+        text-shadow: 1px 1px 1px #000;
+        text-decoration: underline;
+        text-decoration-style: double;
+    }
+    nav ul {
+        list-style-type: none;
+    }
+    a {
+        color: ABF7FF;
+    }
+    section {
+        width: 516px;
+        display: inline-block;
+        color: #FFFFFF;
+        font-size: 25px;
+        text-shadow: 1px 1px 1px #000;
+    }
+.greyBackground {
+  background-color: #999999;
+}
+  )
+    aside {
+      width: 125px;
+      display: inline-block;
+      vertical-align: top;
+      background-color:;
+      font-size: ;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 790px;
+        background-color:;
+        text-align:;
+        padding:5px;
+        display: block;
+}
